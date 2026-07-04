@@ -1,14 +1,7 @@
 ☕ Help Fuel Future Mods
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('theinconceivablenerds', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+https://ko-fi.com/theinconceivablenerds
+  
 If you’re here, there’s a good chance you’ve played or enjoyed one of my mods — and honestly, that already means a lot to me.
 
 I’m a retired gamer working through ongoing health challenges, and modding has become one of the ways I stay creative, engaged, and connected to the gaming communities I care about. Every mod I release comes from a genuine love of experimenting with game systems and sharing those creations with other players.
