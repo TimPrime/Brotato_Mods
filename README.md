@@ -1,5 +1,7 @@
 ☕ Help Fuel Future Mods
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'Q5Q61U68PB');kofiwidget2.draw();</script> 
+
 If you’re here, there’s a good chance you’ve played or enjoyed one of my mods — and honestly, that already means a lot to me.
 
 I’m a retired gamer working through ongoing health challenges, and modding has become one of the ways I stay creative, engaged, and connected to the gaming communities I care about. Every mod I release comes from a genuine love of experimenting with game systems and sharing those creations with other players.
